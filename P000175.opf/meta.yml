@@ -1,10 +1,11 @@
-ebook_metadata:
+id: P000175
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དོ་ཧ་སྐོར་གསུམ་གྱི་ཚིག་དོན་གྱི་རྣམ་བཤད་སེམས་ཀྱི་རྣམ་ཐར་གསལ་བར་སྟོན་པའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - རྩ་བ་མཛད་པ་པོ། གྲུབ་ཆེན་ས་ར་ཧ།
   - འགྲེལ་པ་མཛད་པ་པོ། རྗེ་ཀརྨ་ཕྲིན་ལས།
-  sku: VVI-006
   layers:
   - book_title
   - author
@@ -13,6 +14,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: VVI-006
 web_metadata:
   title:
     en: Commentaries on Saraha’s Three Cycles of Dohas, the Spiritual Songs
